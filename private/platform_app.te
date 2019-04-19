@@ -1,0 +1,2 @@
+# So thats shady qchook can help carriers activate WFC
+allow platform_app qchook_service:service_manager find;
